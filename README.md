@@ -32,4 +32,4 @@
 
 ---
 ### 📄 License
-This project is under MIT license. See the [LICENSE]() file for more details.
+This project is under MIT license. See the [LICENSE](https://github.com/yuukiasuna00/travel-react/blob/main/LICENSE) file for more details.
