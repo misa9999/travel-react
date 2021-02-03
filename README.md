@@ -16,8 +16,6 @@
   
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuukiasuna00/travel-react?color=000&style=for-the-badge">
   
-  <img alt="License" src="https://img.shields.io/github/license/yuukiasuna00/travel-react?color=000&style=for-the-badge"/>
-  
   <a href="https://github.com/yuukiasuna00/">
     <img alt="Developed by Caelynn" src="https://img.shields.io/badge/Dev-Caelynn-%3498db?color=000&style=for-the-badge">
   </a>
