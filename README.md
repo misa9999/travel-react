@@ -1,4 +1,4 @@
-<h1 align="center">🍀 Tr✈vel 🍀</h1>
+<h1 align="center">Tr✈vel</h1>
 <div align="center">
 
   ![travel](https://media.giphy.com/media/XLeLjOzdJSEMES5ZnY/giphy.gif)
@@ -32,5 +32,10 @@
 </a>
 
 ---
-### 📄 License
-This project is under MIT license. See the [LICENSE](https://github.com/yuukiasuna00/travel-react/blob/main/LICENSE) file for more details.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://github.com/yuukiasuna00/travel-react/blob/main/LICENSE)
